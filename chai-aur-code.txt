@@ -1,0 +1,11 @@
+express is used for request and response 
+
+server always listens
+
+request are of various types such as get,post etc
+
+npm init ->initiliaze a node app
+
+npm run start
+
+npm i express-->to install express
