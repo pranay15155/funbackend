@@ -11,10 +11,10 @@ app.get("/", (req, res) => {  //if any request comes at homeroute / then we call
 });
 
 app.get("/twitter", (req, res) => {
-  res.send("Hello twitter!");
+  res.send("<h1>twitter</h1>");
 });
 app.get("/login", (req, res) => {
-  res.send("<h1>pranay</h1>");
+  res.send("<h1>pranay prasoon</h1>");
 });
 
 app.listen(process.env.PORT, () => {

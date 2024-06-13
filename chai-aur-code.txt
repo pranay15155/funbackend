@@ -9,3 +9,17 @@ npm init ->initiliaze a node app
 npm run start
 
 npm i express-->to install express
+
+npm i dotenv
+
+git init
+
+git add .
+
+git commit -m "first commit"
+
+git branch -M main
+
+git remote add origin https://github.com/pranay15155/funbackend.git
+
+git push -u origin main
