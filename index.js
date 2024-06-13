@@ -53,7 +53,7 @@ app.get("/twitter", (req, res) => {
 });
 
 app.get("/github", (req, res) => {
-  res.json(githubData);
+  res.json(githubData);            //to send data in the form of json response
 });
 
 app.get("/login", (req, res) => {
